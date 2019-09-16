@@ -10,8 +10,7 @@ class School
   end
   
   def add_student(name, grade)
-    @name = name
-    @grade = grade 
+    if @roster
   end
   
   
