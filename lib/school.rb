@@ -20,4 +20,5 @@ end
     @roster[grade]
   end
   
-  def sort
+  def sort 
+    @roster each.do 
